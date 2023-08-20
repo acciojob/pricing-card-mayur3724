@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.btn{
+	width:150px;
+	color:white;
+	background-color:red;
+	button-radius:10px;
+}
